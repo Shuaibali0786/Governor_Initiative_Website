@@ -40,7 +40,7 @@ const Footer = () => {
           </div>
           <Link href="mailto:education@governorsindh.com" target="_blank" className='text-blue-800 underline flex items-center gap-3'>
           <MdOutlineMail className='size-5'/> 
-            education@governorsindh.com"</Link>
+            education@governorsindh.com</Link>
           </div>
         </div>
       </footer>
